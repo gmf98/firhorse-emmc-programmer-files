@@ -1,2 +1,2 @@
 # firhorse-emmc-programmer-files
-files for android unlocjking
+files for android unlocking
